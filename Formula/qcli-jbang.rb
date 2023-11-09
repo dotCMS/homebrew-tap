@@ -1,10 +1,10 @@
-# Generated with JReleaser 1.8.0 at 2023-11-08T18:47:34.631276+01:00
+# Generated with JReleaser 1.8.0 at 2023-11-09T13:08:44.818439+01:00
 class QcliJbang < Formula
   desc "app -- Sample Quarkus CLI application"
   homepage "https://www.dotcms.com"
   url "https://github.com/dotCMS/qcli-jbang/releases/download/v1.2.0/qcli-jbang-1.2.0.jar", :using => :nounzip
   version "1.2.0"
-  sha256 "448ff4f7ac3b3aac098d2f45a4b8112ca2f86ce35e906de59dc0210b59341c39"
+  sha256 "ffe82e3065a5294bf5f4937f288c4a32b1546106ed27ad6cac9b807cc672f974"
   license "Apache-2.0"
 
   depends_on "openjdk@11"
